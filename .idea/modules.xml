@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GitHub-10-1.iml" filepath="$PROJECT_DIR$/GitHub-10-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_1001/_1001.iml" filepath="$PROJECT_DIR$/_1001/_1001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_1002/_1002.iml" filepath="$PROJECT_DIR$/_1002/_1002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_1003/_1003.iml" filepath="$PROJECT_DIR$/_1003/_1003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_1004/_1004.iml" filepath="$PROJECT_DIR$/_1004/_1004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_1005/_1005.iml" filepath="$PROJECT_DIR$/_1005/_1005.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_1006/_1006.iml" filepath="$PROJECT_DIR$/_1006/_1006.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_1007/_1007.iml" filepath="$PROJECT_DIR$/_1007/_1007.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_1008/_1008.iml" filepath="$PROJECT_DIR$/_1008/_1008.iml" />
+    </modules>
+  </component>
+</project>

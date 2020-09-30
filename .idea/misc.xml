@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/_1001" />
+    <file type="web" url="file://$PROJECT_DIR$/_1002" />
+    <file type="web" url="file://$PROJECT_DIR$/_1003" />
+    <file type="web" url="file://$PROJECT_DIR$/_1004" />
+    <file type="web" url="file://$PROJECT_DIR$/_1005" />
+    <file type="web" url="file://$PROJECT_DIR$/_1006" />
+    <file type="web" url="file://$PROJECT_DIR$/_1007" />
+    <file type="web" url="file://$PROJECT_DIR$/_1008" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/_1001/pom.xml" />
+        <option value="$PROJECT_DIR$/_1002/pom.xml" />
+        <option value="$PROJECT_DIR$/_1003/pom.xml" />
+        <option value="$PROJECT_DIR$/_1004/pom.xml" />
+        <option value="$PROJECT_DIR$/_1005/pom.xml" />
+        <option value="$PROJECT_DIR$/_1006/pom.xml" />
+        <option value="$PROJECT_DIR$/_1007/pom.xml" />
+        <option value="$PROJECT_DIR$/_1008/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
